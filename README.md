@@ -1,6 +1,12 @@
 # 💫 Hi 👋, I'm Muqaddas
 **A Computer Science Student || C/C++ Developer || Learning Front-end Dev**
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img alt="My GitHub profile animation" src="./light.svg" width="100%">
+ </picture>
+
+
 Email Me 👉 ✉️ **muqaddasalm999@gmail.com** for Collaboration/Projects or Anything Else. 😊
 
 - 🔭 **I'm currently working on:** Building my portfolio website
