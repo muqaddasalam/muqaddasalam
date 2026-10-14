@@ -10,45 +10,38 @@ Welcome to my GitHub corner! 🚀 I'm a passionate learner who loves exploring t
 
 I enjoy learning new technologies, improving my problem-solving skills, and challenging myself with projects that help me grow as a developer.
 
-👩‍💻 About Me
+#👩‍💻 About Me
 
-💻 I code in C, C++, and Python.
+-💻 I code in C, C++, and Python.
 
-🌐 I create web interfaces using HTML and CSS and am exploring frontend development further.
+-🌐 I create web interfaces using HTML and CSS and am exploring frontend development further.
 
-🚀 I enjoy building coding projects and experimenting with new ideas.
+-🚀 I enjoy building coding projects and experimenting with new ideas.
 
-🔐 I'm interested in Cybersecurity and Software Development.
+-🔐 I'm interested in Cybersecurity and Software Development.
 
-🤖 I'm curious about Artificial Intelligence and emerging technologies.
+-🤖 I'm curious about Artificial Intelligence and emerging technologies.
 
-📚 Always learning, practicing, and improving my development skills.
+-📚 Always learning, practicing, and improving my development skills.
 
-🎯 My goal is to become a skilled developer and build useful, real-world applications.
+-🎯 My goal is to become a skilled developer and build useful, real-world applications.
 
-🛠️ Tech Stack & Skills
+-🛠️ Tech Stack & Skills
 
-Programming Languages
+**Programming Languages**
 
-C
+-C
+-C++
+-Python
+-Frontend Development
+-HTML5
+-CSS3
+-JavaScript (learning / exploring)
 
-C++
+**Tools**
 
-Python
-
-Frontend Development
-
-HTML5
-
-CSS3
-
-JavaScript (learning / exploring)
-
-Tools
-
-Git & GitHub
-
-Visual Studio Code
+-Git & GitHub
+-Visual Studio Code
 
 📂 What You'll Find Here
 
