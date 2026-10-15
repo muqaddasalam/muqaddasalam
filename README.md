@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Muqaddas!
 **💻 Aspiring Software Developer | Programmer | Frontend Web Developer**
 
-  <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img alt="My GitHub profile animation" src="./dark.svg" width="100%">
- </picture>
+  <img alt="My GitHub profile" src="./light.svg" width="100%">
+</picture>
 
 Welcome to my GitHub corner! 🚀 I'm a passionate learner who loves exploring the world of programming, building creative projects, and turning ideas into reality through code.
 
